@@ -15,7 +15,7 @@ This script provides a convenient way to utilize the console without connecting 
   * Open your web browser and navigate to the URL where the script is stored.
 
 3. Exercise Caution:
-  * Rename the script to ensure it's not easily accessible by unauthorized users.
+  * Rename the script to ensure it's not easily accessible by users.
 
 4. Use Responsibly:
   * Be mindful of the potential security implications and use the script responsibly.
