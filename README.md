@@ -2,7 +2,7 @@
 
 ### Overview
 
-This script provides a convenient way to utilize the console without connecting via SSH. All you need to do is upload the script to a server running PHP stack and access it through a URL in your browser. This tool proves invaluable in scenarios where direct console access to the hosting environment is restricted.
+This script provides a convenient way to utilize the console without connecting via SSH. All you need to do is upload the script to a server running PHP and access it through a URL in your browser. This tool proves invaluable in scenarios where direct console access to the hosting environment is restricted.
 
 **Caution:** While this script offers flexibility, it's crucial to exercise caution. Rename the script to prevent external users from accessing it, as this could pose a potential security risk to your hosting environment. Be vigilant and consider removing the script after its intended use.
 
